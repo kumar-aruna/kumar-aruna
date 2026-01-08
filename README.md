@@ -1,6 +1,6 @@
-- 👋 Hi, I am Aruna Kumar
-## 👀About Me
-🎓 I am a Master’s student in Bioinformatics at Northeastern University, with a previous Master's in Biochemistry and a Postgraduate Diploma in Cellular and Molecular Diagnosis. My journey spans from hands-on wet lab techniques to advanced computational analyses, making me uniquely skilled at interpreting complex biological data through a multidimensional lens.
+-  Hi, I am Aruna Kumar
+## About Me
+I am a Master’s student in Bioinformatics at Northeastern University, with a previous Master's in Biochemistry and a Postgraduate Diploma in Cellular and Molecular Diagnosis. My journey spans from hands-on wet lab techniques to advanced computational analyses, making me uniquely skilled at interpreting complex biological data through a multidimensional lens.
 
 ##  Interests
 I am deeply passionate about harnessing the power of computational biology and machine learning to solve complex biological problems. My primary focus is on genomic data analysis, predictive modeling, and developing algorithms that can transform healthcare through personalized medicine.
